@@ -27,5 +27,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/HellSkk/Algorithm/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/HellSkk/Algorithm/tree/master/0620-not-boring-movies) |
 | [1179-game-play-analysis-i](https://github.com/HellSkk/Algorithm/tree/master/1179-game-play-analysis-i) |
+| [1258-article-views-i](https://github.com/HellSkk/Algorithm/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/HellSkk/Algorithm/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
