@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/HellSkk/Algorithm/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/HellSkk/Algorithm/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/HellSkk/Algorithm/tree/master/1415-students-and-examinations) |
+| [1480-movie-rating](https://github.com/HellSkk/Algorithm/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/HellSkk/Algorithm/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/HellSkk/Algorithm/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/HellSkk/Algorithm/tree/master/1801-average-time-of-process-per-machine) |
